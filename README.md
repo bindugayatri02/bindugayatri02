@@ -14,18 +14,11 @@ Welcome to my GitHub profile! I'm passionate about business analytics and always
 
 JavaScript, Python, Jupyter, Tableau Public, Canva, Microsoft Excel, Microsoft PowerPoint 
 
-
-## 📈 GitHub Stats
-
-![Bindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bindugayatri02&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bindugayatri02&layout=compact&theme=radical)
-
 ## 📫 Connect with Me
 
 - LinkedIn
-- www.linkedin.com/in/bandi-bindu-gayatri-030522282
+ www.linkedin.com/in/bandi-bindu-gayatri-030522282
 - Email id
-- bindugayatri2200@gmail.com
+ bindugayatri2200@gmail.com
 
 Thank you for visiting my profile. Have a great day! 😊
