@@ -4,21 +4,19 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning new programming languages and frameworks.
-- 💼 I'm a software developer with experience in web development, mobile app development, and cloud computing.
-- 🤔 I’m looking for help with open-source contributions and collaborative projects.
-- 💬 Ask me about anything related to technology, coding, and best practices.
-- 📫 How to reach me: bindugayatri02@example.com (Please replace with your actual email)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+- 🌱 I’m currently learning new programming languages and analytical techniques.
+- 💼 I'm a undergraduate BBA Business Analytics student passionate about leveraging management and technology to improve day to day business.
+- 🤔 I’m looking for improving my skills and knowledge in Analytical tools and merhods.
+- 💬 Feel free to reach me out and Ask me about anything. I am always eager to learn and explore new things.
+- 📫 How to reach me:
+Email id: bindugayatri2200@gmail.com
+Linkedin: www.linkedin.com/in/bandi-bindu-gayatri-030522282
+- ⚡ Fun fact: I love solving puzzles and reading novels.
 
 ## 🛠️ Technologies & Tools
 
-- Languages: JavaScript, Python, Java, C++
-- Frontend: React, Angular, HTML, CSS
-- Backend: Node.js, Express, Django, Spring Boot
-- Databases: MySQL, MongoDB, PostgreSQL
-- Cloud: AWS, Azure, Google Cloud
-- Version Control: Git, GitHub
+JavaScript, Python, Jupyter, Tableau Public, Canva, Microsoft Excel, Microsoft PowerPoint 
+
 
 ## 📈 GitHub Stats
 
@@ -28,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/bindugayatri02) (Please replace with your actual LinkedIn profile)
-- [Twitter](https://twitter.com/bindugayatri) (Please replace with your actual Twitter profile)
+- [LinkedIn]
+(www.linkedin.com/in/bandi-bindu-gayatri-030522282)
 
 Thank you for visiting my profile. Have a great day! 😊
