@@ -1,6 +1,6 @@
 # Hi there, I'm Bindu Gayatri! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies. Here's a bit about me:
+Welcome to my GitHub profile! I'm passionate about business analytics and always eager to learn new technologies. Here's a bit about me:
 
 ## 🚀 About Me
 
@@ -8,11 +8,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - 💼 I'm a undergraduate BBA Business Analytics student passionate about leveraging management and technology to improve day to day business.
 - 🤔 I’m looking for improving my skills and knowledge in Analytical tools and merhods.
 - 💬 Feel free to reach me out and Ask me about anything. I am always eager to learn and explore new things.
-- 📫 How to reach me:
-  
-Email id: bindugayatri2200@gmail.com
-
-Linkedin: www.linkedin.com/in/bandi-bindu-gayatri-030522282
 - ⚡ Fun fact: I love solving puzzles and reading novels.
 
 ## 🛠️ Technologies & Tools
@@ -29,6 +24,8 @@ JavaScript, Python, Jupyter, Tableau Public, Canva, Microsoft Excel, Microsoft P
 ## 📫 Connect with Me
 
 - LinkedIn
-www.linkedin.com/in/bandi-bindu-gayatri-030522282
+ www.linkedin.com/in/bandi-bindu-gayatri- 030522282
+- Email id
+ bindugayatri2200@gmail.com
 
 Thank you for visiting my profile. Have a great day! 😊
