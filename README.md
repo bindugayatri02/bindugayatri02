@@ -21,4 +21,4 @@ JavaScript, Python, Jupyter, Tableau Public, Canva, Microsoft Excel, Microsoft P
 - Email id
  bindugayatri2200@gmail.com
 
-Thank you for visiting my profile. Have a great day! 😊
+Thank you for visiting my profile. Have a great day!😊
