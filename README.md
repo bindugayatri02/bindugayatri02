@@ -9,7 +9,9 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - 🤔 I’m looking for improving my skills and knowledge in Analytical tools and merhods.
 - 💬 Feel free to reach me out and Ask me about anything. I am always eager to learn and explore new things.
 - 📫 How to reach me:
+  
 Email id: bindugayatri2200@gmail.com
+
 Linkedin: www.linkedin.com/in/bandi-bindu-gayatri-030522282
 - ⚡ Fun fact: I love solving puzzles and reading novels.
 
