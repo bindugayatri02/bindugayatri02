@@ -24,8 +24,8 @@ JavaScript, Python, Jupyter, Tableau Public, Canva, Microsoft Excel, Microsoft P
 ## 📫 Connect with Me
 
 - LinkedIn
- www.linkedin.com/in/bandi-bindu-gayatri- 030522282
+www.linkedin.com/in/bandi-bindu-gayatri- 030522282
 - Email id
- bindugayatri2200@gmail.com
+bindugayatri2200@gmail.com
 
 Thank you for visiting my profile. Have a great day! 😊
